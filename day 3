@@ -1,0 +1,37 @@
+types of machine learning
+
+  supervised
+
+  in this kind of ml we have some input data and some output data and all we have to do is 
+  form a relationship between input and output result so that if any new data is thrown to us we can 
+  predict the result
+
+  there are 2 types of data : numerical :cgpa age wt iq ets
+                              categorical:gender nationality
+
+  2 types:
+  regresion: when the output is of type numerical data it is callled regersion
+  cassification:when the output is of tyoe categorical then it is cassification.  
+  
+
+
+  unsupervised
+
+    in this type of learning we only we have input data
+
+    types:
+    clustering : labeles data can be creates we group the data
+    dimentionality reduction: in case of a lot of input col ... it removes dimwnaion of data(pca->converts multidemesion to 3d state)
+    anomaly detection:detect outliers and remove it 
+    association rule learning : we notice a pattern that if 2 products are bought together then they should be kept together
+
+
+
+
+  semi supervised :
+      we give limited lables and then ml lables other things by its inteligence and give the output
+      example google pic that is if we label one pic as papa then it lables all the pics of papa 
+
+  reenforcement    :
+
+we have zero data and we fetch data by working.. it learn by doing mistakes and then finally get well trained
