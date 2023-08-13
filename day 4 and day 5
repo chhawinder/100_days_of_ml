@@ -1,0 +1,26 @@
+Batch learning vs online ml
+  Batch learning is a offline training way 
+  we update our model periodic data
+day 5:
+
+online learing :
+ ->increasing the accuracy as we use the app
+ ->we continuealy get inflow of data
+   ->server is trained 
+   ->alexa and youtube and chatgpt
+   ->less costriler
+   ->river is one of the library is used to do live and online learning and vowpal do the same.
+   disadvantage:
+   ->this is risky (data is not correct)we have to make our project strong and roboust in nature 
+   ->this is tricky 
+
+
+out of core learning
+
+
+
+   
+   
+  
+  
+   
