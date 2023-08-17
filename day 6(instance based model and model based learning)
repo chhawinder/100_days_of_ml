@@ -1,0 +1,15 @@
+instance based model and model based learning
+
+instance based learning: cramming the concept
+  we try to find a similar point near the testing data 
+  and then we make a decision ex:knn k nearest neighbour 
+  ->there is no learning in this method 
+  ->all the result is fetched from the given data
+  
+model based learning 
+  try to understand the data and then present some relation between output and input
+  ex: linear regresion ,decison tree
+  we make a new rule on the data that has been provided
+  ->we need to just keep the relation not the data
+
+
