@@ -1,0 +1,40 @@
+once the other videos were skipped 
+
+
+tensor:
+this is a data structer (container for numbers)
+  ->this is a basic ds for machine learning 
+
+# 0d tensor:
+{0}  this is an array in which there is only one number
+  import numpy as np
+  a=np.array(4)
+  a
+  ->output: array(4)
+  a.ndim
+  ->0
+  
+# 1d tensor
+{0,1,2,3}
+->dim=axis=rank 
+  ->above given is one d
+  ->but this vector has 4d 
+  
+# 2d tensor 
+{
+  [1,2,3]
+  [2,6,5]
+  [5,8,9]
+}
+shap2:(3,3) 
+
+#3d tensor
+
+#4d tesnsor:
+collection of 3d tensor and nd is generalize
+  
+
+continue from 19.9 time span
+  
+
+  
