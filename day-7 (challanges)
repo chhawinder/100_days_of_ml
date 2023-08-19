@@ -1,0 +1,36 @@
+Problens:
+data collection:
+  api fetch
+  webscraping from google 
+
+Insufficient data :
+  data should be high to again better result
+  labelled data is better
+
+non representative data:
+ ->sampling noise 
+ ->sampling bias 
+ ->data representation should not miss the data
+
+poor quality data 
+   ->we spend a lot of time in improving the data quality 
+   
+
+irrelevant Features
+   ->garbage in garbage will be output 
+   ->irrelevant data should not be used 
+overfitting 
+   ->cram the data
+   ->can work only on old data 
+underfitting 
+   ->not good as give very bad result 
+   
+software integration 
+   ->this is a very difficult process 
+   
+offline learning and deployment:
+   ->costly process 
+  
+cost involved:
+   ->ml can cost really high
+    
