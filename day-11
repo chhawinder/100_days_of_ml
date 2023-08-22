@@ -26,7 +26,7 @@ this is a data structer (container for numbers)
   [2,6,5]
   [5,8,9]
 }
-shap2:(3,3) 
+shape:(3,3) 
 
 #3d tensor
 
