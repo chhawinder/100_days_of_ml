@@ -29,12 +29,16 @@ this is a data structer (container for numbers)
 shape:(3,3) 
 
 #3d tensor
-
+usage:
+nlp: we write all the uniques alpabets in a vector and then which ever we want to use as input we mark it as one 
+example: [hi,nitish,jay,mansi] and i want to get hi mansi
+then: [[[1,0,0,0][0,0,0,1]]]
 #4d tesnsor:
+ batches of images that are stacked together .... one image in 3d form 
 collection of 3d tensor and nd is generalize
   
 
-continue from 19.9 time span
+
   
 
   
