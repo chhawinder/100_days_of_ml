@@ -1,0 +1,13 @@
+data genration 
+    csv
+    json
+    fetch api
+    webscraping
+CSV:
+read_csv()
+i this vedio only there is mentioned a way by which we can pull data from severs like github
+
+visit this and revise this:
+https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day15%20-%20working%20with%20csv%20files/working-with-csv.ipynb
+  
+  
